@@ -6,4 +6,10 @@ h1 {
   }
 .publish-date {
   }
+@media (max-width: 1080px) {
+  img {
+    width: 400px;
+    height: 600px;
+      }
+  }
 
